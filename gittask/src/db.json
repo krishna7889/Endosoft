@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "passowrd":"passowrd123",
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "Address":"Hyd",
+    "DOB":"22-12-1994"
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "passowrd":"passowrd123",
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "Address":"Hyd",
+    "DOB":"22-12-1994"
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "email": "Nathan@yesenia.net",
+    "passowrd":"passowrd123",
+    "phone": "1-463-123-4447",
+    "website": "ramiro.info",
+    "Address":"Hyd",
+    "DOB":"22-12-1994"
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "email": "Julianne.OConner@kory.org",
+    "passowrd":"passowrd123",
+    "phone": "493-170-9623 x156",
+    "website": "kale.biz",
+    "Address":"Hyd",
+    "DOB":"22-12-1994"
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "email": "Lucio_Hettinger@annie.ca",
+    "passowrd":"passowrd123",
+    "phone": "(254)954-1289",
+    "website": "demarco.info",
+    "Address":"Hyd",
+    "DOB":"22-12-1994"
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "username": "Leopoldo_Corkery",
+    "email": "Karley_Dach@jasper.info",
+    "passowrd":"passowrd123",
+    "phone": "1-477-935-8478 x6430",
+    "website": "ola.org",
+    "Address":"Hyd",
+    "DOB":"22-12-1994"
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "Telly.Hoeger@billy.biz",
+    "passowrd":"passowrd123",
+    "phone": "210.067.6132",
+    "website": "elvis.io",
+    "Address":"Hyd",
+    "DOB":"22-12-1994"
+  },
+  {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir V",
+    "username": "Maxime_Nienow",
+    "email": "Sherwood@rosamond.me",
+    "passowrd":"passowrd123",
+    "phone": "586.493.6943 x140",
+    "website": "jacynthe.com",
+    "Address":"Hyd",
+    "DOB":"22-12-1994"
+  },
+  {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "username": "Delphine",
+    "email": "gopal@gmail.com",
+    "passowrd":"password123",
+    "phone": "(775)976-6794 x41206",
+    "website": "conrad.com",
+    "Address":"Hyd",
+    "DOB":"22-12-1994"
+  },
+  {
+    "id": 10,
+    "name": "Clementina DuBuque",
+    "username": "Moriah.Stanton",
+    "email": "Rey.Padberg@karina.biz",
+    "passowrd":"passowrd123",
+    "phone": "024-648-3804",
+    "website": "ambrose.net",
+    "Address":"Hyd",
+    "DOB":"22-12-1994"
+
+  }
+]

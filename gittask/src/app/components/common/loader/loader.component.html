@@ -1,0 +1,8 @@
+<div *ngIf="loading" class="loader row" [style.height.px]="height" (window:resize)="onResize($event)">
+    <div class="loaderOverlay">
+        <div class="ring">
+            <p>Loading</p>
+            <span></span>
+        </div>
+    </div>
+</div>
